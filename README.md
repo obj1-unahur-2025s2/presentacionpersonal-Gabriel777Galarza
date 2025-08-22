@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Carlos Gabriel Galarza Rossi
+- Vivo en Villa Tesei, Hurlingham
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo una gata que se llama Terry
+- Estoy cursando la Tecnicatura en Programación
